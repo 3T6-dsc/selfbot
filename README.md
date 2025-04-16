@@ -18,8 +18,8 @@ L'utilisation de selfbots va à l'encontre des conditions d'utilisation de Disco
 
 1. Clonez le repository
 ```bash
-git clone https://github.com/votre-username/discord-selfbot.git
-cd discord-selfbot
+git clone https://github.com/3T6-dsc/selfbot
+cd selfbot
 ```
 
 2. Installez les dépendances
@@ -86,4 +86,4 @@ Si vous aimez ce projet, n'hésitez pas à lui donner une étoile sur GitHub !
 Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue sur GitHub.
 
 ---
-Développé avec ❤️ par [Votre Nom]
+Développé avec ❤️ par 3T6-dsc
